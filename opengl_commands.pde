@@ -1,8 +1,3 @@
-// Dummy routines for OpenGL commands.
-
-// You should modify the routines below to finish the assignment.
-// Feel free to define any global variables, classes, and helper routines that you need.
-
 ArrayList<float[][]> stack = new ArrayList<float[][]>();
 
 boolean orthoState = true;   
